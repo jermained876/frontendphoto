@@ -1,0 +1,16 @@
+.appBar{
+    border-bottom:1px solid black;
+    background-color: blue;
+    margin-bottom: 0px;
+  
+}
+.test{
+    height: 100px;
+    width: 100px;
+    background-color: brown;
+}
+
+.nav-link{
+  display: inline-block;
+ 
+}

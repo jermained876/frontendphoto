@@ -1,0 +1,17 @@
+.dashboard-box{
+    width: 100%;
+    height: 150px;
+    
+}
+
+.files {
+    background-color:#57889c;
+}
+
+.albums {
+    background-color:#d1b993;
+}
+
+.users {
+    background-color: #26c281;
+}

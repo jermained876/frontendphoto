@@ -1,0 +1,22 @@
+.photo-box{
+    height: 300px;
+    width: 100%;
+    background-color: #404040;
+    overflow: hidden;
+    position: relative;
+    transition: all linear 0.25s;
+}
+
+.photo-box:hover{
+    height: 330px;
+    width: 110%;
+    z-index: 999;
+}
+
+.photo-img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    transition: all linear 0.25s;
+ }
+ 

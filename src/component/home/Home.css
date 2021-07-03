@@ -1,0 +1,24 @@
+.aboutimg{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.aboutimg-box{
+    width: 100%;
+    height: 300px;
+    background-color: black;
+}
+
+
+.btn-por{
+    background-color: #ff3399;
+    display: inline-block;
+    padding: 5px;
+    border-radius: 20px;
+    width: 100px;
+    text-align: center;
+    
+    margin-left: 5px;
+ 
+}
